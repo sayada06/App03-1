@@ -1,0 +1,56 @@
+// For information on how to create your own theme, please see:
+// http://ionicframework.com/docs/theming/
+
+:root {
+	--ion-color-purple-light: #c692e3;
+	--ion-color-purple-light-rgb: 198,146,227;
+	--ion-color-purple-light-contrast: #000000;
+	--ion-color-purple-light-contrast-rgb: 0,0,0;
+	--ion-color-purple-light-shade: #ae80c8;
+	--ion-color-purple-light-tint: #cc9de6;
+}
+
+.ion-color-purple-light {
+	--ion-color-base: var(--ion-color-purple-light);
+	--ion-color-base-rgb: var(--ion-color-purple-light-rgb);
+	--ion-color-contrast: var(--ion-color-purple-light-contrast);
+	--ion-color-contrast-rgb: var(--ion-color-purple-light-contrast-rgb);
+	--ion-color-shade: var(--ion-color-purple-light-shade);
+	--ion-color-tint: var(--ion-color-purple-light-tint);
+}
+
+:root {
+	--ion-color-mint: #9edbcf;
+	--ion-color-mint-rgb: 158,219,207;
+	--ion-color-mint-contrast: #000000;
+	--ion-color-mint-contrast-rgb: 0,0,0;
+	--ion-color-mint-shade: #8bc1b6;
+	--ion-color-mint-tint: #a8dfd4;
+}
+
+.ion-color-mint {
+	--ion-color-base: var(--ion-color-mint);
+	--ion-color-base-rgb: var(--ion-color-mint-rgb);
+	--ion-color-contrast: var(--ion-color-mint-contrast);
+	--ion-color-contrast-rgb: var(--ion-color-mint-contrast-rgb);
+	--ion-color-shade: var(--ion-color-mint-shade);
+	--ion-color-tint: var(--ion-color-mint-tint);
+}
+
+:root {
+	--ion-color-yell: #feffc2;
+	--ion-color-yell-rgb: 254,255,194;
+	--ion-color-yell-contrast: #000000;
+	--ion-color-yell-contrast-rgb: 0,0,0;
+	--ion-color-yell-shade: #e0e0ab;
+	--ion-color-yell-tint: #feffc8;
+}
+
+.ion-color-yell {
+	--ion-color-base: var(--ion-color-yell);
+	--ion-color-base-rgb: var(--ion-color-yell-rgb);
+	--ion-color-contrast: var(--ion-color-yell-contrast);
+	--ion-color-contrast-rgb: var(--ion-color-yell-contrast-rgb);
+	--ion-color-shade: var(--ion-color-yell-shade);
+	--ion-color-tint: var(--ion-color-yell-tint);
+}
